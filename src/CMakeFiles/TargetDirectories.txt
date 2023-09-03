@@ -1,0 +1,3 @@
+/home/zyme/cv2/opencv/Auto_mapper_training/src/CMakeFiles/view_map.dir
+/home/zyme/cv2/opencv/Auto_mapper_training/src/CMakeFiles/edit_cache.dir
+/home/zyme/cv2/opencv/Auto_mapper_training/src/CMakeFiles/rebuild_cache.dir
